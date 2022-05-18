@@ -24,7 +24,7 @@ and the form created by me to submit the data in the database.
  4.  It is low level (raw) form of data and is also human readable.
  5.  It helps developers in faster coding, in-turn reduces development cost.
 ## Release History
-### Version 0.0 /12/11/2021
+### Version 0.0 /18/05/2022
 a. created a form to save employee data in database using bootstrap  \
 b. connecetd tokken using javascript and AJAX.\
 c. used predefined functions of jpdb common.js.
